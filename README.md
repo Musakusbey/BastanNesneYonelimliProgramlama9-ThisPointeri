@@ -1,0 +1,2 @@
+# BastanNesneYonelimliProgramlama9-ThisPointeri
+BastanNesneYonelimliProgramlama9-ThisPointeri
